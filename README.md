@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Store input value in array using Map
+Store input value in array using Map.
 
 ## Live Project Link
 [Store input value in array using Map](https://fastidious-paletas-14c31b.netlify.app/)
