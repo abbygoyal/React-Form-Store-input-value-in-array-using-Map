@@ -27,3 +27,9 @@ After forking the project, simply clone it the way you would from the new forked
 In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
 
 
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
